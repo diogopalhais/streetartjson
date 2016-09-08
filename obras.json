@@ -7,8 +7,10 @@
             "nickname":"Hazul",
             "avatar":"1",
             "text": "Rua de Brito Capelo, 4450 Matosinhos",
-            "latitude":"41.1803103",
-            "longitude":"-8.689574",
+            coordinate: {
+                "latitude":"41.1803103",
+                "longitude":"-8.689574",
+            },
             "original_pic": "http://cdn.impresa.pt/c4b/abb/9363811/porto/hazul-porto.jpg",
             "created_at": "1404709434"
         },
@@ -17,8 +19,10 @@
             "nickname":"Vhils",
             "avatar":"2",
             "text": "R. Âncora, 4150 Porto",
-            "latitude":"41.1515647",
-            "longitude":"-8.6533145",
+            coordinate: {
+               "latitude":"41.1515647",
+                "longitude":"-8.6533145",
+            },
             "original_pic": "http://cdn.impresa.pt/c4b/abb/9363811/loures/vhils-porto.jpg",
             "created_at": "1404709434"
         }
