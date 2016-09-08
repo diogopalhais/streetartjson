@@ -7,7 +7,7 @@
             "nickname":"Hazul",
             "avatar":"1",
             "text": "Rua de Brito Capelo, 4450 Matosinhos",
-            coordinate: {
+            "coordinate": {
                 "latitude":"41.1803103",
                 "longitude":"-8.689574",
             },
@@ -19,7 +19,7 @@
             "nickname":"Vhils",
             "avatar":"2",
             "text": "R. Âncora, 4150 Porto",
-            coordinate: {
+            "coordinate": {
                "latitude":"41.1515647",
                 "longitude":"-8.6533145",
             },
